@@ -17,7 +17,6 @@ printf(" 				..........   Vous avez \%d vies   ..........\n\n\n", i);
 printf("Jtebez");
 
 
->>>>>>> master
 do
 {
 
