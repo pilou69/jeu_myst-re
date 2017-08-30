@@ -15,6 +15,7 @@ printf(" 				..........   Vous avez \%d vies   ..........\n\n\n", i);
 
 
 printf("Jtebez");
+ print("comme ça on sera deux !");
 
 
 do
