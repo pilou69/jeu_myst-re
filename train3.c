@@ -13,6 +13,8 @@ int main()
 printf("		Bienvenue dans le jeu du numéro mystère, ce nombre est compris entre 1 et 100.\n\n");
 printf(" 				..........   Vous avez \%d vies   ..........\n\n\n", i);
 
+printf("Jtebez");
+
 do
 {
 
